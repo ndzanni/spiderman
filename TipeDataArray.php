@@ -16,3 +16,13 @@ unset($names[1]);
 var_dump($names);
 
 var_dump(count($names));
+
+
+#perubahan
+$biodata = array(
+    "Nama : " => "Zanni",
+    "Umur : " => 16,
+    "Asal :" => "Wonogiri",
+);
+
+var_dump($biodata);

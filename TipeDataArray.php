@@ -19,9 +19,7 @@ var_dump(count($names));
 
 
 #perubahan
-$biodata = array(
+$data = array (
     "nama : " => "Zanni",
-    "Asal : " => "Wonogiri",
 );
-
-var_dump($biodata);
+var_dump($data);
